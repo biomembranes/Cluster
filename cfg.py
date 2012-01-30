@@ -12,7 +12,7 @@ thrvolumemol = 600 ## theoretical volume of the molecule in A^3
 
 ### Time range
 
-starttime  = 1100000
+starttime  = 0
 finishtime = 2000000
 
 

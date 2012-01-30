@@ -13,7 +13,7 @@ thrvolumemol = 600 ## theoretical volume of the molecule in A^3
 ### Time range
 
 starttime  = 1100000
-finishtime = 30000
+finishtime = 2000000
 
 
 ### Histogram Output
